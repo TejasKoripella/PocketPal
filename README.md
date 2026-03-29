@@ -37,4 +37,3 @@ Download index.html.
 
 Open it in any modern web browser like Chrome, Firefox, or Safari.
 
-To host it online, simply upload the file to GitHub Pages.
